@@ -1,4 +1,4 @@
-import { OAuthOptions, OAuthConsumer, OAuthHashFunction, BodyHashFunction, OAuthRequestOptions, OAuthAuthorization, OAuthToken, OAuthData, OAuthHeader, OAuthParam } from "./types.ts";
+import { OAuthOptions, OAuthConsumer, OAuthHashFunction, BodyHashFunction, OAuthRequestOptions, OAuthAuthorization, OAuthToken, OAuthData, OAuthHeader, OAuthParam } from './types.ts';
 
 export class OAuth {
   protected consumer: OAuthConsumer;
