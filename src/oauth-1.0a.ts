@@ -276,3 +276,5 @@ export class OAuth {
     return result;
   }
 }
+
+export default OAuth;
