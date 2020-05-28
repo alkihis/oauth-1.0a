@@ -38,7 +38,7 @@ Tested on some popular OAuth 1.0a services:
 ## Quick Start
 
 ```ts
-import OAuth from 'https://deno.land/x/oauth-1.0a/mod.ts';
+import OAuth from 'https://deno.land/x/oauth-1.0a@3.0.0/mod.ts';
 import { hmac } from 'https://deno.land/x/hmac@v1.0.2/mod.ts';
 
 const oauth = new OAuth({
