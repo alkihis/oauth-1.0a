@@ -38,9 +38,9 @@ Tested on some popular OAuth 1.0a services:
 ## Quick Start
 
 ```ts
-import OAuth from 'https://deno.land/x/oauth-1.0a@3.0.0/mod.ts';
+import OAuth from 'https://deno.land/x/oauth_1.0a@3.0.0/mod.ts';
 // or directly from github
-import Twitter from 'https://raw.githubusercontent.com/alkihis/oauth-1.0a/3.0.0/mod.ts';
+import Twitter from 'https://raw.githubusercontent.com/alkihis/oauth_1.0a/3.0.0/mod.ts';
 
 import { hmac } from 'https://deno.land/x/hmac@v1.0.2/mod.ts';
 
